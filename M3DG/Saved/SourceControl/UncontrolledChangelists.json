@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mered/Documents/delivery/International/Work/semestre_2/3D_game_applications/3D_Game_applications_midterm/M3DG/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/mered/Documents/delivery/International/Work/semestre_2/3D_game_applications/3D_Game_applications_midterm/M3DG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/mered/Documents/delivery/International/Work/semestre_2/3D_game_applications/3D_Game_applications_midterm/M3DG/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/mered/Documents/delivery/International/Work/semestre_2/3D_game_applications/3D_Game_applications_midterm/M3DG/Content/SCK_Casual01/Models/Premade_Characters/MESH_PC_02.uasset",
+				"C:/Users/mered/Documents/delivery/International/Work/semestre_2/3D_game_applications/3D_Game_applications_midterm/M3DG/Content/BP_Projectile.uasset",
+				"C:/Users/mered/Documents/delivery/International/Work/semestre_2/3D_game_applications/3D_Game_applications_midterm/M3DG/Content/SCK_Casual01/Mannequin/Animations/ThirdPerson_AnimBP.uasset",
+				"C:/Users/mered/Documents/delivery/International/Work/semestre_2/3D_game_applications/3D_Game_applications_midterm/M3DG/Content/SCK_Anim.uasset",
+				"C:/Users/mered/Documents/delivery/International/Work/semestre_2/3D_game_applications/3D_Game_applications_midterm/M3DG/Content/Shooter_Anim.uasset",
+				"C:/Users/mered/Documents/delivery/International/Work/semestre_2/3D_game_applications/3D_Game_applications_midterm/M3DG/Content/Rifle_01/UE5_MP02/W2_Stand_Aim_Idle_v2.uasset",
+				"C:/Users/mered/Documents/delivery/International/Work/semestre_2/3D_game_applications/3D_Game_applications_midterm/M3DG/Content/BP_Zombie.uasset",
+				"C:/Users/mered/Documents/delivery/International/Work/semestre_2/3D_game_applications/3D_Game_applications_midterm/M3DG/Content/ABP_Zombie.uasset",
+				"C:/Users/mered/Documents/delivery/International/Work/semestre_2/3D_game_applications/3D_Game_applications_midterm/M3DG/Content/NewAnimBlueprint.uasset",
+				"C:/Users/mered/Documents/delivery/International/Work/semestre_2/3D_game_applications/3D_Game_applications_midterm/M3DG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/NK/KZ20DTH4X8A0O9OV2TSYYL.uasset",
+				"C:/Users/mered/Documents/delivery/International/Work/semestre_2/3D_game_applications/3D_Game_applications_midterm/M3DG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/P8/P9YQB3J9WTV3WK30E6E5UZ.uasset",
+				"C:/Users/mered/Documents/delivery/International/Work/semestre_2/3D_game_applications/3D_Game_applications_midterm/M3DG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/LX/EEGP88NFJ9108MC6XLLH4C.uasset"
+			]
+		}
+	]
+}
